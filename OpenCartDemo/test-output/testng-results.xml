@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-09T22:09:44 IST" name="Suite" finished-at="2022-10-09T22:09:54 IST" duration-ms="10317">
+    <groups>
+    </groups>
+    <test started-at="2022-10-09T22:09:44 IST" name="Test" finished-at="2022-10-09T22:09:54 IST" duration-ms="10317">
+      <class name="Cart.TestObject.HomeTest">
+        <test-method signature="startUpHomePage()[pri:1, instance:Cart.TestObject.HomeTest@f736069]" started-at="2022-10-09T22:09:44 IST" name="startUpHomePage" finished-at="2022-10-09T22:09:51 IST" duration-ms="6445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpHomePage -->
+        <test-method signature="clickRegister()[pri:2, instance:Cart.TestObject.HomeTest@f736069]" started-at="2022-10-09T22:09:51 IST" name="clickRegister" finished-at="2022-10-09T22:09:52 IST" duration-ms="1772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickRegister -->
+        <test-method signature="loginCheck()[pri:3, instance:Cart.TestObject.HomeTest@f736069]" started-at="2022-10-09T22:09:52 IST" name="loginCheck" finished-at="2022-10-09T22:09:54 IST" duration-ms="2040" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginCheck -->
+      </class> <!-- Cart.TestObject.HomeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
